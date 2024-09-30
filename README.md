@@ -1,8 +1,5 @@
-# React + Vite
+# bryGPT, powered by Gemini and built using React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Currently just a clone of LLM like chatGPT but more so like Google Gemini and utilizing its API. Currently no backend and only using React for front end. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live demo on GitHub Pages: https://bryan-2006.github.io/bryGPT/
